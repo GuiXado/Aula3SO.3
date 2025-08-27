@@ -1,0 +1,2 @@
+# Aula3SO.3
+## EXERCÍCIO 3
